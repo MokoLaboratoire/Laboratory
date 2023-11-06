@@ -11,12 +11,17 @@
     "lint": "eslint --ext .js,.jsx,.ts,.tsx ./"
   },
   "dependencies": {
+    "@react-three/fiber": "^8.15.10",
     "expo": "~49.0.15",
+    "expo-file-system": "~15.4.4",
+    "expo-gl": "~13.0.1",
     "expo-status-bar": "~1.6.0",
+    "expo-three": "^7.0.0",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.72.6",
-    "react-native-web": "^0.19.9"
+    "react-native-web": "^0.19.9",
+    "three": "^0.158.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
